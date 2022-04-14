@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cadu94
 - 👀 I’m interested in TI.
-- 🌱 I’m currently learning JAVA, Python, R, HTML5, CSS3 and Full-Stack.
+- 🌱 I’m currently learning JAVA, Python, R, HTML5, CSS3, Full-Stack and Data Science.
 - 💞️ I’m looking to collaborate on Web Development and Full-Stack Development.
 - 📫 How to reach me: carlos.2121364@aluno.faculdadedescomplica.com.br
 
